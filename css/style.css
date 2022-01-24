@@ -1,0 +1,21 @@
+.imgFilter {
+    filter: brightness(0.80);
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    background: #fcf9f8;
+}
+
+#footer {
+    position: absolute;
+    bottom: 0;
+}
+
+html,
+body {
+    height: 100%;
+}
